@@ -68,4 +68,5 @@ Sample Output:
 Here I tought in 2 possible ways, use time parsing, or processing strings, I used time parsing, because is less complicated, and it worked perfectly;
 
 ### Evidence
+![image](https://github.com/user-attachments/assets/bdee82f6-06f4-405e-9330-5c1c27282a81)
 
