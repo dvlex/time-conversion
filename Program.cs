@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+String inTime = "02:00PM";
+
+Console.WriteLine(DateTime.Parse(inTime));
