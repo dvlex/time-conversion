@@ -65,7 +65,7 @@ Sample Output:
 
 ### Solution
 
-
+Here I tought in 2 possible ways, use time parsing, or processing strings, I used time parsing, because is less complicated, and it worked perfectly;
 
 ### Evidence
 
